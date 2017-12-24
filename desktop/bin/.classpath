@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="src" path="main/resources"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/core_main"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.badlogicgames.gdx:gdx-backend-lwjgl:1.9.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.badlogicgames.gdx:gdx-platform:natives-desktop:1.9.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.badlogicgames.gdx:gdx-box2d-platform:natives-desktop:1.9.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.badlogicgames.gdx:gdx-freetype-platform:natives-desktop:1.9.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.badlogicgames.gdx:gdx:1.9.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.badlogicgames.gdx:gdx-box2d:1.9.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.badlogicgames.gdx:gdx-freetype:1.9.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl.lwjgl:lwjgl:2.9.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl.lwjgl:lwjgl_util:2.9.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.badlogicgames.jlayer:jlayer:1.0.1-gdx"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.jcraft:jorbis:0.0.17"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl.lwjgl:lwjgl-platform:natives-windows:2.9.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl.lwjgl:lwjgl-platform:natives-linux:2.9.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.lwjgl.lwjgl:lwjgl-platform:natives-osx:2.9.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: net.java.jinput:jinput:2.0.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: net.java.jutils:jutils:1.0.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: net.java.jinput:jinput-platform:natives-linux:2.0.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: net.java.jinput:jinput-platform:natives-windows:2.0.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: net.java.jinput:jinput-platform:natives-osx:2.0.5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
